@@ -1,0 +1,52 @@
+C:\Users\iau\Desktop\DernekYonetim\DernekYonetim.UI\obj\Debug\DernekYonetim.UI.csprojAssemblyReference.cache
+C:\Users\iau\Desktop\DernekYonetim\DernekYonetim.UI\obj\Debug\DernekYonetim.UI.Properties.Resources.resources
+C:\Users\iau\Desktop\DernekYonetim\DernekYonetim.UI\obj\Debug\DernekYonetim.UI.csproj.GenerateResource.cache
+C:\Users\iau\Desktop\DernekYonetim\DernekYonetim.UI\obj\Debug\DernekYonetim.UI.csproj.CoreCompileInputs.cache
+C:\Users\iau\Desktop\DernekYonetim\DernekYonetim.UI\bin\Debug\DernekYonetim.UI.exe.config
+C:\Users\iau\Desktop\DernekYonetim\DernekYonetim.UI\bin\Debug\DernekYonetim.UI.exe
+C:\Users\iau\Desktop\DernekYonetim\DernekYonetim.UI\bin\Debug\DernekYonetim.UI.pdb
+C:\Users\iau\Desktop\DernekYonetim\DernekYonetim.UI\bin\Debug\DernekYonetim.BLL.dll
+C:\Users\iau\Desktop\DernekYonetim\DernekYonetim.UI\bin\Debug\DernekYonetim.BLL.pdb
+C:\Users\iau\Desktop\DernekYonetim\DernekYonetim.UI\obj\Debug\DernekYonetim.UI.csproj.CopyComplete
+C:\Users\iau\Desktop\DernekYonetim\DernekYonetim.UI\obj\Debug\DernekYonetim.UI.exe
+C:\Users\iau\Desktop\DernekYonetim\DernekYonetim.UI\obj\Debug\DernekYonetim.UI.pdb
+C:\Users\iau\Desktop\DernekYonetim\DernekYonetim.UI\bin\Debug\DernekYonetim.DAL.dll
+C:\Users\iau\Desktop\DernekYonetim\DernekYonetim.UI\bin\Debug\DernekYonetim.DAL.pdb
+C:\Users\iau\Desktop\DernekYonetim\DernekYonetim.UI\obj\Debug\DernekYonetim.UI.frmMain.resources
+C:\Users\iau\Desktop\DernekYonetim\DernekYonetim.UI\obj\Debug\DernekYonetim.UI.frmUyeler.resources
+F:\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.UI\bin\Debug\DernekYonetim.UI.exe.config
+F:\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.UI\bin\Debug\DernekYonetim.UI.exe
+F:\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.UI\bin\Debug\DernekYonetim.UI.pdb
+F:\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.UI\bin\Debug\DernekYonetim.BLL.dll
+F:\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.UI\bin\Debug\DernekYonetim.DAL.dll
+F:\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.UI\bin\Debug\DernekYonetim.BLL.pdb
+F:\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.UI\bin\Debug\DernekYonetim.DAL.pdb
+F:\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.UI\obj\Debug\DernekYonetim.UI.csprojAssemblyReference.cache
+F:\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.UI\obj\Debug\DernekYonetim.UI.frmMain.resources
+F:\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.UI\obj\Debug\DernekYonetim.UI.frmUyeler.resources
+F:\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.UI\obj\Debug\DernekYonetim.UI.Properties.Resources.resources
+F:\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.UI\obj\Debug\DernekYonetim.UI.csproj.GenerateResource.cache
+F:\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.UI\obj\Debug\DernekYonetim.UI.csproj.CoreCompileInputs.cache
+F:\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.UI\obj\Debug\DernekYonetim.UI.csproj.CopyComplete
+F:\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.UI\obj\Debug\DernekYonetim.UI.exe
+F:\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.UI\obj\Debug\DernekYonetim.UI.pdb
+F:\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.UI\obj\Debug\DernekYonetim.UI.frmAidatOde.resources
+F:\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.UI\obj\Debug\DernekYonetim.UI.frmYoneticiler.resources
+C:\Users\tugay\Desktop\Kurs\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.UI\bin\Debug\DernekYonetim.UI.exe.config
+C:\Users\tugay\Desktop\Kurs\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.UI\bin\Debug\DernekYonetim.UI.exe
+C:\Users\tugay\Desktop\Kurs\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.UI\bin\Debug\DernekYonetim.UI.pdb
+C:\Users\tugay\Desktop\Kurs\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.UI\bin\Debug\DernekYonetim.BLL.dll
+C:\Users\tugay\Desktop\Kurs\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.UI\bin\Debug\DernekYonetim.DAL.dll
+C:\Users\tugay\Desktop\Kurs\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.UI\bin\Debug\DernekYonetim.BLL.pdb
+C:\Users\tugay\Desktop\Kurs\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.UI\bin\Debug\DernekYonetim.DAL.pdb
+C:\Users\tugay\Desktop\Kurs\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.UI\obj\Debug\DernekYonetim.UI.csprojAssemblyReference.cache
+C:\Users\tugay\Desktop\Kurs\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.UI\obj\Debug\DernekYonetim.UI.frmAidatOde.resources
+C:\Users\tugay\Desktop\Kurs\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.UI\obj\Debug\DernekYonetim.UI.frmMain.resources
+C:\Users\tugay\Desktop\Kurs\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.UI\obj\Debug\DernekYonetim.UI.frmUyeler.resources
+C:\Users\tugay\Desktop\Kurs\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.UI\obj\Debug\DernekYonetim.UI.frmYoneticiler.resources
+C:\Users\tugay\Desktop\Kurs\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.UI\obj\Debug\DernekYonetim.UI.Properties.Resources.resources
+C:\Users\tugay\Desktop\Kurs\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.UI\obj\Debug\DernekYonetim.UI.csproj.GenerateResource.cache
+C:\Users\tugay\Desktop\Kurs\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.UI\obj\Debug\DernekYonetim.UI.csproj.CoreCompileInputs.cache
+C:\Users\tugay\Desktop\Kurs\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.UI\obj\Debug\DernekYonetim.UI.csproj.CopyComplete
+C:\Users\tugay\Desktop\Kurs\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.UI\obj\Debug\DernekYonetim.UI.exe
+C:\Users\tugay\Desktop\Kurs\WinForm\Dernek Yonetim\DernekYonetim\DernekYonetim.UI\obj\Debug\DernekYonetim.UI.pdb
